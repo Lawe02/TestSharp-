@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XdR570iTH+F8gBvS8CBAAZB8BRalt+DG7e2JYLjFU3k2azi+EhF4l3Zt1wq9R6gnVD/y2qSZHTqhCup3/mbnOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lawza\\source\\repos\\Test\\ConsoleTestApp\\ConsoleTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lawza\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

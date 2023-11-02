@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "l3uiZyNjLaS5+3A+Td4DzFn6Jz7jkKOFp6ran0fume4dBzkLA9gVq9bWUJsF4wF1Vf6rmoL7JZ34SPkgpU6C8A==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\lawza\\source\\repos\\Test\\TestApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\lawza\\source\\repos\\SuPaLibrRary\\SuPaLibrRary.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\lawza\\source\\repos\\SuPaLibrRary\\SuPaLibrRary.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
